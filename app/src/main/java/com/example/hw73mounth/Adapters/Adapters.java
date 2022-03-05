@@ -22,7 +22,6 @@ public class Adapters extends RecyclerView.Adapter<Adapters.FragmentsViewHolder>
 
     private ArrayList<Model_fragments> data;
 
-    //*new MainViewHolder(ItemMainBinding.inflate(LayoutInflater.from(parent.getContext()),parent,false));*//
     @NonNull
     @Override
     public FragmentsViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
@@ -36,7 +35,7 @@ public class Adapters extends RecyclerView.Adapter<Adapters.FragmentsViewHolder>
 
     @Override
     public int getItemCount() {
-        return 0;
+        return data.size();
     }
 
     class FragmentsViewHolder extends RecyclerView.ViewHolder {

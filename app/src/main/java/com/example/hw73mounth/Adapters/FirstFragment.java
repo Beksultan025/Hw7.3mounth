@@ -46,10 +46,5 @@ public class FirstFragment extends Fragment {
         data.add(new Model_fragments(R.drawable.foto_for_fragments , R.drawable.foto_for_fragments2 , R.drawable.foto_for_fragments3));
         data.add(new Model_fragments(R.drawable.foto_for_fragments , R.drawable.foto_for_fragments2 , R.drawable.foto_for_fragments3));
         data.add(new Model_fragments(R.drawable.foto_for_fragments , R.drawable.foto_for_fragments2 , R.drawable.foto_for_fragments3));
-        data.add(new Model_fragments(R.drawable.foto_for_fragments , R.drawable.foto_for_fragments2 , R.drawable.foto_for_fragments3));
-        data.add(new Model_fragments(R.drawable.foto_for_fragments , R.drawable.foto_for_fragments2 , R.drawable.foto_for_fragments3));
-        data.add(new Model_fragments(R.drawable.foto_for_fragments , R.drawable.foto_for_fragments2 , R.drawable.foto_for_fragments3));
-        data.add(new Model_fragments(R.drawable.foto_for_fragments , R.drawable.foto_for_fragments2 , R.drawable.foto_for_fragments3));
-        data.add(new Model_fragments(R.drawable.foto_for_fragments , R.drawable.foto_for_fragments2 , R.drawable.foto_for_fragments3));
     }
 }
